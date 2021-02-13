@@ -61,7 +61,8 @@ h2 {
 }
 
 #header {
-    background: url(../assets/images/first.jpeg) no-repeat center center fixed;
+    background: url(../src/assets/images/first.jpeg) no-repeat center center
+        fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -77,7 +78,8 @@ h2 {
 #contact {
     min-height: 100%;
     padding-top: 5em;
-    background: url(../assets/images/contact.jpeg) no-repeat center center fixed;
+    background: url(../src/assets/images/contact.jpeg) no-repeat center center
+        fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
