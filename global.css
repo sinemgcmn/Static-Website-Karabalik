@@ -98,7 +98,6 @@ h2 {
 .quote {
     background-color: rgba(0, 0, 0, 0.5);
     box-sizing: border-box;
-    text-align: center;
     padding: 3.5em;
     color: white;
     width: 80%;
@@ -136,7 +135,6 @@ h2 {
 }
 .quote small {
     right: 3em;
-
     position: absolute;
 }
 @media screen and (min-width: 62em) {
