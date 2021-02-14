@@ -98,7 +98,6 @@ h2 {
 .quote {
     background-color: rgba(0, 0, 0, 0.5);
     box-sizing: border-box;
-    text-align: justify;
     padding: 3.5em;
     color: white;
     width: 80%;
