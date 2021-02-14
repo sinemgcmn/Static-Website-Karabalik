@@ -103,6 +103,8 @@ h2 {
     color: white;
     width: 80%;
     position: absolute;
+    /* text-align: justify; */
+    word-spacing: normal;
     left: 10%;
     top: 25%;
     -webkit-animation: fade-in 3s cubic-bezier(0.39, 0.575, 0.565, 1) both;
@@ -133,7 +135,8 @@ h2 {
     }
 }
 .quote small {
-    right: 9em;
+    right: 3em;
+
     position: absolute;
 }
 @media screen and (min-width: 62em) {
